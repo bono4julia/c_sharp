@@ -1,0 +1,7 @@
+D:\sharp\uklon\uklon1\bin\Debug\uklon1.exe.config
+D:\sharp\uklon\uklon1\bin\Debug\uklon1.exe
+D:\sharp\uklon\uklon1\bin\Debug\uklon1.pdb
+D:\sharp\uklon\uklon1\obj\Debug\uklon1.csprojAssemblyReference.cache
+D:\sharp\uklon\uklon1\obj\Debug\uklon1.csproj.CoreCompileInputs.cache
+D:\sharp\uklon\uklon1\obj\Debug\uklon1.exe
+D:\sharp\uklon\uklon1\obj\Debug\uklon1.pdb

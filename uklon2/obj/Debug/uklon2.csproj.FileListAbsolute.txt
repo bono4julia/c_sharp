@@ -1,0 +1,9 @@
+D:\sharp\uklon\uklon2\bin\Debug\uklon2.exe.config
+D:\sharp\uklon\uklon2\bin\Debug\uklon2.exe
+D:\sharp\uklon\uklon2\bin\Debug\uklon2.pdb
+D:\sharp\uklon\uklon2\obj\Debug\uklon2.csprojAssemblyReference.cache
+D:\sharp\uklon\uklon2\obj\Debug\uklon2.csproj.CoreCompileInputs.cache
+D:\sharp\uklon\uklon2\obj\Debug\uklon2.exe
+D:\sharp\uklon\uklon2\obj\Debug\uklon2.pdb
+D:\sharp\uklon\uklon2\bin\Debug\Newtonsoft.Json.dll
+D:\sharp\uklon\uklon2\obj\Debug\uklon2.csproj.CopyComplete
